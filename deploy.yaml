@@ -14,3 +14,4 @@ spec:
         image: 968423163201.dkr.ecr.us-east-1.amazonaws.com/hello:latest
         ports:
         - containerPort: 80
+# vf vf 
